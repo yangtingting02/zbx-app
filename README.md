@@ -1,4 +1,4 @@
-##ZBX,一个简易的zabbix管理系统的前端部分，后端请戳[zbx-backend](https://github.com/yangtingting02/zbx-backend)。
+##zbx-app,一个简易的zabbix管理系统的前端部分，后端请戳[zbx-backend](https://github.com/yangtingting02/zbx-backend)。
 
 ###运行
 - 获取代码
