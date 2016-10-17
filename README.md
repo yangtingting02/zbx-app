@@ -32,16 +32,16 @@ open localhost:3000
 
 ###功能展示
 - 主页
-[]:./image/home.png
+[]:https://github.com/yangtingting02/zbx-app/blob/master/image/home.png
 - ITEM列表
-[]:./image/item.png
+[]:https://github.com/yangtingting02/zbx-app/blob/master/image/item.png
 - 主机详情
-[]:./image/host-detail-1.png
-[]:./image/host-detail-2.png
+[]:https://github.com/yangtingting02/zbx-app/blob/master/image/host-detail-1.png
+[]:https://github.com/yangtingting02/zbx-app/blob/master/image/host-detail-2.png
 - 监控曲线图
-[]:./image/chart.png
+[]:https://github.com/yangtingting02/zbx-app/blob/master/image/chart.png
 - 批量添加模板
-[]:./image/template-multi-add.png
+[]:https://github.com/yangtingting02/zbx-app/blob/master/image/template-multi-add.png
 - '友好的提示'...
-[]:./image/template-add-notify-1.png
-[]:./image/template-add-notify-2.png
+[]:https://github.com/yangtingting02/zbx-app/blob/master/image/template-add-notify-1.png
+[]:https://github.com/yangtingting02/zbx-app/blob/master/image/template-add-notify-2.png
