@@ -34,7 +34,7 @@ open localhost:3000
 - 主页
 ![](image/home.png)
 - ITEM列表
-![](image/item.png)
+![](image/items.png)
 - 主机详情
 ![](image/host-detail-1.png)
 ![](image/host-detail-2.png)
